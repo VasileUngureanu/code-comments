@@ -8,7 +8,12 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 
 ## Contents
 
+### Enough to be dangerous
+
 * [//TODO: Write a better comment](https://dev.to/adammc331/todo-write-a-better-comment-4c8c)
+
+### To master, continue with
+
 * [Code Comments](https://www.donnfelker.com/code-comments/)
 * [Comments should be sentences](https://nedbatchelder.com/blog/201401/comments_should_be_sentences.html)
 * ["Comments" chapter from "Clean Code" book](https://www.goodreads.com/book/show/3735293-clean-code)
